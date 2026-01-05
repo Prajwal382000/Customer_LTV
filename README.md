@@ -1,6 +1,6 @@
 # CLV Finance Dashboard
 ## 📌 Project Overview
-This project analyzes customer behavior data from a digital wallet platform to understand **Customer Lifetime Value (LTV)1**, identify high-value customers, evaluate loyalty and referral impact, and detect churn risk drivers. The insights help businesses improve retention strategies, optimize loyalty programs, and protect revenue from at-risk customers.
+This project analyzes customer behavior data from a digital wallet platform to understand **Customer Lifetime Value (LTV)**, identify high-value customers, evaluate loyalty and referral impact, and detect churn risk drivers. The insights help businesses improve retention strategies, optimize loyalty programs, and protect revenue from at-risk customers.
 
 # 🎯 Business Objective
 A digital wallet company wants to understand what drives customer value and churn risk. By analyzing customer demographics, spending behavior, loyalty participation, referrals, support interactions, and satisfaction levels, the business aims to *identify high-value customers, assess retention risks, and take data-driven actions to improve long-term profitability.*
